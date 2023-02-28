@@ -62,7 +62,11 @@ export const Header = ({
             alt='typescript logo'
             width={30}
           />
-          <img src='src/assets/icons8-react.svg' alt='react logo' width={30} />
+          <img
+            src={'src/assets/icons8-react.svg'}
+            alt='react logo'
+            width={30}
+          />
           <img src={next} alt='next logo' width={30} />
         </div>
       </div>
