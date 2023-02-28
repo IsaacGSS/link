@@ -1,6 +1,6 @@
 import { Iheader } from '../types/interface'
 
-import next from 'src/assets/icons8-next.js.svg'
+// import next from 'src/assets/icons8-next.js.svg'
 
 export const Header = ({
   srcHeader,
@@ -67,7 +67,7 @@ export const Header = ({
             alt='react logo'
             width={30}
           />
-          <img src={next} alt='next logo' width={30} />
+          {/* <img src={next} alt='next logo' width={30} /> */}
         </div>
       </div>
     </div>
